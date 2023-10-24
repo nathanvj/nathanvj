@@ -40,7 +40,7 @@ My personal website written in Angular (SSR) and TailwindCSS with Notion as a CM
 - Draw.io
 - Notion
 
-# **What I use on the daily** 
+## **What I use on the daily** 
 
 - .NET
 - AWS
