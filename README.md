@@ -1,51 +1,31 @@
-# **Hi there!** 👋👨🏽‍💻
-I'm **Nathan van Jole**. a passionate full-stack from The Netherlands.  
-I mainly use GitLab for my personal and work projects.
+<a href="https://nathanvj.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-night.png">
+    <img src="assets/banner-day.png" width="100%" alt="Hi, I'm Nathan. CTO at Advey. A pixel-art Dutch polder with windmills and cows, and Ruby the beagle chasing her ball down the bike path.">
+  </picture>
+</a>
 
-## My Personal Website
-
-My personal website written in Angular (SSR) and TailwindCSS with Notion as a CMS. [Check it out](https://nathanvj.com)
-
-## Connect with me
-<p align="left">
-<a href="https://twitter.com/nathanvanjole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathanvanjole" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nathan-van-jole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan-van-jole" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7787699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7787699" height="30" width="40" /></a>
-<a href="https://instagram.com/nathanvanjole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathanvanjole" height="30" width="40" /></a>
+<p>
+  <a href="https://nathanvj.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-site-night.png"><img src="assets/btn-site-day.png" width="171" height="58" alt="nathanvj.com"></picture></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nathan-van-jole"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-night.png"><img src="assets/btn-linkedin-day.png" width="123" height="58" alt="LinkedIn"></picture></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/nathanvanjole"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-x-night.png"><img src="assets/btn-x-day.png" width="57" height="58" alt="X"></picture></a>&nbsp;&nbsp;
+  <a href="mailto:hi@nathanvj.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-night.png"><img src="assets/btn-email-day.png" width="93" height="58" alt="Email"></picture></a>
 </p>
 
-## **Languages**
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/heading-stack-night.png"><img src="assets/heading-stack-day.png" width="114" height="41" alt="Stack"></picture></h3>
 
-- C#
-- JavaScript/TypeScript
-- SQL
-- HTML & CSS
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips-night.png"><img src="assets/chips-day.png" width="779" height="37" alt="C#, .NET, Azure, TypeScript, Angular, Capacitor, LLMs, Evals, Astro"></picture>
 
-## **Frameworks & Libraries**
+<br>
 
-- Angular
-- .NET
-- Entity Framework
-- RxJS
-- NGRX
-- Tailwind
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/terminal-night.svg"><img src="assets/terminal-day.svg" width="726" height="347" alt="The terminal from nathanvj.com. whoami: You're a visitor. I'm Nathan van Jole. about: Nathan van Jole. Writing code since I was twelve, professionally since 2020. CTO at Advey. ls: about.txt, work, build, contact.txt, secrets."></picture>
 
-## **Tools**
+Most of what I build lives in private repos. The exception is [my site](https://github.com/nathanvj/nathanvj.github.io): Ruby, the polder and Ruby Run, in plain TypeScript on a canvas. Open the terminal there and type `help`.
 
-- Visual Studio (Code)
-- Docker (Compose)
-- AWS (Lambda, Step Functions, EventBridge, SQS, SNS)
-- Git
-- Figma
-- Draw.io
-- Notion
+<br>
 
-## **What I use on the daily** 
-
-- .NET
-- AWS
-- Angular
-- PostgreSQL
-
-<br><br>
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/ruby-night.png"><img src="assets/ruby-day.png" width="168" height="144" alt="Ruby the beagle, asleep"></picture>
+  <br>
+  <sub>Made in the Netherlands, with Ruby and ♥</sub>
+</p>
