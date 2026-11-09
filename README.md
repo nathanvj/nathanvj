@@ -20,7 +20,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/terminal-night.svg"><img src="assets/terminal-day.svg" width="726" height="347" alt="The terminal from nathanvj.com. whoami: You're a visitor. I'm Nathan van Jole. about: Nathan van Jole. Writing code since I was twelve, professionally since 2020. CTO at Advey. ls: about.txt, work, build, contact.txt, secrets."></picture>
 
-Most of what I build lives in private repos. The exception is [my site](https://github.com/nathanvj/nathanvj.github.io): Ruby, the polder and Ruby Run, in plain TypeScript on a canvas. Open the terminal there and type `help`.
+Most of my code lives in private repos. The public bits are [my homepage](https://github.com/nathanvj/nathanvj.github.io) and this page, the only two places I'm allowed to over-engineer.
 
 <br>
 
